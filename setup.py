@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="beautify_markdown",
-    version="1.0.6",
+    version="1.0.0",
     author="Tadeas Fort",
     author_email="taddy.fort@gmail.com",
     description="A tool to beautify markdown output from chatgpt-cli (https://github.com/marcolardera/chatgpt-cli)",
