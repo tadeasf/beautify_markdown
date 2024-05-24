@@ -1,4 +1,5 @@
-from rich import traceback, Console
+from rich import traceback
+from rich.console import Console
 from rich.prompt import Prompt
 import pyperclip
 
